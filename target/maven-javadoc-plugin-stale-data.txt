@@ -1,0 +1,26 @@
+cmd.exe
+/X
+/C
+"C:\Users\Banks\.jdks\azul-11.0.18\bin\javadoc.exe @options @packages"
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\allclasses-index.html = 1681357648125
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\allclasses.html = 1681357648135
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\allpackages-index.html = 1681357648127
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\constant-values.html = 1681357648078
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\deprecated-list.html = 1681357648132
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\element-list = 1681357648063
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\help-doc.html = 1681357648140
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\index-all.html = 1681357648120
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\index.html = 1681357648137
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\jquery-ui.overrides.css = 1681357648162
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\member-search-index.js = 1681357648118
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\member-search-index.zip = 1681357648119
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\options = 1681357647196
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\overview-tree.html = 1681357648093
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\package-search-index.js = 1681357648099
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\package-search-index.zip = 1681357648116
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\packages = 1681357647197
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\script.js = 1681357648144
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\search.js = 1681357648146
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\stylesheet.css = 1681357648143
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\type-search-index.js = 1681357648117
+C:\Users\Banks\Desktop\JavaPackage\target\apidocs\type-search-index.zip = 1681357648118
